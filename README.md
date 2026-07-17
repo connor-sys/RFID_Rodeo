@@ -4,6 +4,10 @@ An offline, single-file HTML reference and calculator for Wiegand and smart-card
 
 Maintained by [@connor-sys](https://github.com/connor-sys).
 
+<p align="center">
+    <img src="RFID_Rodeo.png" alt="RFID Rodeo" width="400">
+</p>
+
 ## Usage
 
 Open `RFID-Rodeo-v0.3.1.html` in any modern browser. That's it — no install, no server.
