@@ -2,7 +2,7 @@
 
 An offline, single-file HTML reference and calculator for Wiegand and smart-card (HID / Indala / TWIC / and related) bit formats. Runs entirely in your browser — no network, no dependencies, nothing leaves the page.
 
-Maintained by [@connor-sys](https://github.com/connor-sys).
+Maintained by [@connor-sec](https://github.com/connor-sec).
 
 <p align="center">
     <img src="RFID_RODEO_logo.jpg" alt="RFID Rodeo" width="400">
@@ -10,7 +10,7 @@ Maintained by [@connor-sys](https://github.com/connor-sys).
 
 ## Usage
 
-Open `RFID-Rodeo-v0.3.1.html` in any modern browser. That's it — no install, no server.
+Open `RFID-Rodeo-v0.3.2.html` in any modern browser. That's it — no install, no server.
 
 ## ⚠️ Authorized use only — for security research and education
 
