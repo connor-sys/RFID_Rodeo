@@ -10,7 +10,7 @@ Maintained by [@connor-sec](https://github.com/connor-sec).
 
 ## Usage
 
-Open `RFID-Rodeo-v0.3.2.html` in any modern browser. That's it — no install, no server.
+Open `RFID-Rodeo-v1.0.html` in any modern browser. That's it — no install, no server.
 
 ## ⚠️ Authorized use only — for security research and education
 
